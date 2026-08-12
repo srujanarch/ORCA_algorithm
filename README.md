@@ -23,6 +23,8 @@ In this project, three autonomous drones navigate toward their respective target
 
 Each drone independently calculates a collision-free velocity based on the predicted motion of neighboring drones.
 
+![ORCA Simulation](Simulation.gif)
+
 ## 🎯 Objectives
 
 * Simulate a three-drone swarm.
